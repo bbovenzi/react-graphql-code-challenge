@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`User matches snapshot 1`] = `
+<div
+  className="user"
+>
+  <h2
+    className="name"
+  >
+    name
+  </h2>
+  <a
+    className="link"
+    href="mailto:email@email.com"
+    rel="noopener"
+    target="_blank"
+  >
+    <p>
+      email@email.com
+    </p>
+  </a>
+  <a
+    className="link"
+    href="tel:5555555555"
+    rel="noopener"
+    target="_blank"
+  >
+    <p>
+      5555555555
+    </p>
+  </a>
+</div>
+`;
